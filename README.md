@@ -6,3 +6,5 @@ just trying to be socialised. hoping to learn a lot..;)
 https://blockgeeks.com/guides/what-is-blockchain-technology/
 
 https://www.edureka.co/blog/blockchain-tutorial/
+
+https://developer.ibm.com/courses/all/blockchain-essentials/
